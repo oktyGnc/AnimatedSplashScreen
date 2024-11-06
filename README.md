@@ -23,4 +23,4 @@ https://drive.google.com/file/d/1Kn-zFg5ywA8VGeO7fXo9JVDnQa8yEE8t/view?usp=shari
 
 1. **Projeyi Klonlayın veya İndirin**:
    ```bash
-   git clone https://github.com/kullanici_adi/AnimatedSplashScreen.git
+   git clone https://github.com/oktyGnc/AnimatedSplashScreen.git
